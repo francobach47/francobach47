@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋 I'm Franco Bach
+  Hi 👋 I'm Franco Bach 🇦🇷
 </h1>
 
 🇬🇧 I'm an advanced **Acoustic Engineering** student. My main interests lie in **software development**, **digital signal processing** (**DSP**), **Machine** and **Deep Learning**, among others. Currently, I work as a **Jr. Machine Learning Engineer** in the development and study of text-to-speech (TTS) technologies/systems, voice synthesis, voice cloning, etc., based on artificial intelligence. Additionally, I have a strong interest in software development applied to audio, particularly in **audio plugin development**."
