@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  [![Juce](https://img.shields.io/badge/JUCE-8DC63F.svg?style=for-the-badge&logo=JUCE&logoColor=white)](https://juce.com/)
+  [![Juce](https://img.shields.io/badge/JUCE-8DC63F.svg?style=for-the-badge&logo=JUCE&logoColor=white)](https://home.aveek.io/GitHub-Profile-Badges/)
 
 </div>
 
